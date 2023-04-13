@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NET Framework**
 
-- 💬 Ask me about **Web Developer**
+- 💬 Ask me about **Web /Design**
 
 - 📫 How to reach me **nuryagli@hotmail.com**
 
