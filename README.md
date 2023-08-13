@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurbeniz Yağlı</h1>
-<h3 align="center">I develop front-end designs using Html, Css, and Javascript libraries, and I am proficient in using PHP, MySQL, C#, and NodeJs for the back-end. Currently, I am on a learning journey for Firebase.</h3>
+<h3 align="center">I'm a Web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
