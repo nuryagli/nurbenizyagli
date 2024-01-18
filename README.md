@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/2058952/screenshots/4505368/it_s_time_to_do_the_design.800.png)
+
 
 <h1 align="center">Hi 👋, I'm Nurbeniz</h1>
 <h3 align="center">A passionate Mobile Developer from Turkey</h3>
