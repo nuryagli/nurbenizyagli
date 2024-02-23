@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Nurbeniz</h1>
-<h3 align="center">A passionate Mobile Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Flutter* | React*
 
